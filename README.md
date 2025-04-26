@@ -184,17 +184,18 @@ https://my-bucket-evgen.website.yandexcloud.net/
 
 - Ссылки на манифесты :
 
-[main.tf](Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/main.tf)
+[main.tf](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/main.tf)
 
-[index.html](Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/index.html)
+[index.html](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/index.html)
 
-[outputs.tf](Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/outputs.tf)
+[outputs.tf](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/outputs.tf)
 
-[ssh_keys.tf](Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/ssh_keys.tf)
+[ssh_keys.tf](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/ssh_keys.tf)
 
-[terraform.tfvars](Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/terraform.tfvars)
+[terraform.tfvars](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/terraform.tfvars)
 
-[variables.tf](Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/variables.tf)
+[variables.tf](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/config/variables.tf)
+
 
 
 
