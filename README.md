@@ -177,7 +177,7 @@ https://my-bucket-evgen.website.yandexcloud.net/
 - ![scrin](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/Снимок%20экрана%202025-04-26%20165021.png)
 
 - Снова захожу в браузере по ссылке https://my-bucket-evgen.website.yandexcloud.net/, теперь картинка загружается и в строке запросов виден замочек,
-То есть статический сайт размещён на Object Storage, доступен по HTTPS через стандартный сертификат Яндекс.
+то есть статический сайт размещён на Object Storage, доступен по HTTPS через стандартный сертификат Яндекс.
 
 - ![scrin](https://github.com/Evgenii-379/15.3.md-security-in-cloud-providers/blob/main/Снимок%20экрана%202025-04-26%20165131.png)
 
