@@ -1,0 +1,6 @@
+yc_token         = "y0_AgAAAABT............................ULXRhpk9lgY"
+yc_cloud_id      = "b1gt41qe1o37635d6cud"         
+yc_folder_id     = "b1gt6sro0sp7kjv4dnh1"         
+yc_access_key    = "YCAJEfSzubOR-f_bvPHkKvvMu"
+yc_secret_key    = "YCNWFXp............................TYV-Kn7q"
+service_account_id = "ajejhtfl4ll3t1kmqgtj"  
